@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+langgraph==1.0.5
+langchain-groq>=0.3.0
+langchain-core>=1.2.0
+python-dotenv
+requests
